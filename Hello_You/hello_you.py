@@ -1,0 +1,19 @@
+#Ask user for name
+name = input("What is your name?: ")
+
+#Ask user for age
+age = input("What is your age?: ")
+
+#Ask user for city
+city = input("What city do you live in?: ")
+
+#Ask user what they enjoy
+love = input("What do you love doing?: ")
+
+#Create output text
+string = "Your name is {} and your age is {}, also you belong from {}, and you love to do {}.".format(name, age, city, love)
+#output = string.format(name, age, city, love)
+
+#Print output to screen
+print(string) #print(output), if ur formating it into output variable.
+
