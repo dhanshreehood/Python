@@ -25,5 +25,5 @@ else:
    print("\nSome suggested names for your band as follows:\n", city + fruit) 
 """
 #fruits
-fruit = input("\nMention your fav fruit: ")
+fruit = input("\n Mention your fav fruit: ")
 print("\nSome suggested names for your band as follows:\n", city + fruit) 
